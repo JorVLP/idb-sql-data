@@ -1,20 +1,20 @@
-MECH4264,Intro to Algebra 1,23
-MATH5859,Numerical Calculus 1,55
-MATH8891,Practical Algebra 1,0
-MECH6874,Practical Stats 1,17
-STAT7744,Practical Probability 1,58
-BUSI1705,Intro to Criminology 2,103
-ENGI3599,Advanced Probability 2,102
-CHEM3222,Numerical Algebra 2,0
-LAW03897,Numerical Business 2,42
-MECH1537,Practical Calculus 1,6
-LAW07921,Practical Business 2,76
-STAT3163,Practical Engineering 1,78
-INF05851,Practical Artifical Int 1,23
-MECH3046,Theoretical Stats 2,69
-INF09291,Advanced Artifical Int 1,95
-LAW01755,Theoretical Psychology 2,50
-MATH4219,Practical Algebra 1,93
-CHEM8456,Numerical Algebra 1,77
-AI004337,Intro to Logic 2,0
-PSYC5735,Applied Art History 2,58
+MECH1235,Numerical Engineering 1,113
+LAW01905,Numerical Business 1,52
+MECH3895,Intro to Calculus 2,82
+INF01144,Intro to Machine Learning 2,111
+AI008751,Applied Computer Systems 2,104
+ENGI6396,Advanced Calculus 2,23
+MECH3962,Theoretical Engineering 2,37
+STAT9444,Advanced Calculus 1,8
+BUSI5764,Intro to Art History 1,23
+DATA9151,Advanced Artifical Int 1,74
+PSYC1753,Intro to Psychology 2,55
+CHEM2888,Advanced Probability 2,3
+ENGI7285,Intro to Stats 2,77
+PSYC2031,Practical Art History 1,91
+ENGI3561,Theoretical Calculus 2,77
+INF09920,Intro to Artifical Int 1,43
+MATH1431,Practical Engineering 2,7
+BUSI1542,Theoretical Business 2,112
+CHEM2478,Practical Algebra 1,13
+MECH2337,Applied Engineering 2,7
